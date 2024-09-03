@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97063485-8450-437d-b762-8862004b7cd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01ComVetor/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01ComVetor/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01ComVetor/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01ComVetor/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01ComVetor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01ComVetor/ex01ComVetor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01ComVetor/src/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01ComVetor/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01Estruturada/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01Estruturada/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01Estruturada/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01Estruturada/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01Estruturada/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01Estruturada/ex01Estruturada.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01Estruturada/src/ProgramaCalculaMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01PooSemVetor/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01PooSemVetor/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01PooSemVetor/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01PooSemVetor/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01PooSemVetor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01PooSemVetor/ex01PooSemVetor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01PooSemVetor/src/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01PooSemVetor/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="97063485-8450-437d-b762-8862004b7cd4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,16 +19,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dinap/OneDrive/Área de Trabalho/Faculdade/Programação Orientada a Objetos/oop-exercises&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dinap/OneDrive/Área de Trabalho/Curso de Java/Poo/exemplo-aluno",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,6 +50,7 @@
       <workItem from="1725381846799" duration="38000" />
       <workItem from="1725385930565" duration="58000" />
       <workItem from="1725385997755" duration="148000" />
+      <workItem from="1725386559008" duration="18000" />
     </task>
     <servers />
   </component>
