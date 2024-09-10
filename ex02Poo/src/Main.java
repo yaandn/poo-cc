@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Entre o segundo número:");
         numf = sc.nextInt();
         Intervalo num = new Intervalo(numi,numf);
-        System.out.println("Soma : " + num.soma() + " Média : " + num.media() + " Qtde Pares : " + num.qtdePares() + " Qtde Ímpares : " + num.qtdeImpares() + " Qtde Números: " + num.qtdNumeros() + " Soma dos primeiros n números: " + num.somaParcial(2) + num.toString());
+        System.out.println("Soma : " + num.soma() + " Média : " + num.media() + " Qtde Pares : " + num.qtdePares() +
+                " Qtde Ímpares : " + num.qtdeImpares() + " Qtde Números: " + num.qtdNumeros() + " Soma dos primeiros n números: " +
+                num.somaParcial(2) + num.toString());
     }
 }
